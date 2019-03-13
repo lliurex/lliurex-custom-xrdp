@@ -1,0 +1,24 @@
+lliurex-custom-xrdp (0.2.2) bionic; urgency=medium
+
+  * Initial bionic release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 13 Mar 2019 13:16:32 +0100
+
+lliurex-custom-xrdp (0.2.1) xenial; urgency=high
+
+  * Moved startwm.d to main script
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 03 Jul 2017 14:08:32 +0200
+
+lliurex-custom-xrdp (0.2) xenial; urgency=medium
+
+  * Adding custom kb configuration
+  * Fixing language export
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 03 Jul 2017 13:47:10 +0200
+
+lliurex-custom-xrdp (0.1) xenial; urgency=high
+
+  * Initial release.
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 11 May 2017 12:24:54 +0200

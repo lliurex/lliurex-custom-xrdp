@@ -1,0 +1,12 @@
+#!/bin/sh
+
+. "/etc/profile"
+. "/etc/environment"
+. "/etc/default/locale"
+
+export PATH=$PATH
+export LANG=$LANG
+
+startkde
+
+

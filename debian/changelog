@@ -1,3 +1,9 @@
+lliurex-custom-xrdp (0.2.3) bionic; urgency=medium
+
+  * Fix kde session startup
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Thu, 09 Sep 2021 13:25:55 +0200
+
 lliurex-custom-xrdp (0.2.2) bionic; urgency=medium
 
   * Initial bionic release
